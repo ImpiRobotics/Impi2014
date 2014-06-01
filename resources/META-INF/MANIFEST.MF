@@ -1,0 +1,6 @@
+MIDlet-Name: Impi2014
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: Impi2014, ,  com.impirobotics.frc2014.Impi2014
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
